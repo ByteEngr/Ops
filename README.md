@@ -1,10 +1,10 @@
-# 🚀 Complete DevOps Project – CI/CD, Kubernetes & Monitoring
+# Complete DevOps Project – CI/CD, Kubernetes & Monitoring
 
 An end-to-end **production-style DevOps project** demonstrating how to build, containerize, deploy, and monitor a web application using modern DevOps tools and best practices.
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 This project covers the full DevOps lifecycle:
 
@@ -17,27 +17,9 @@ This project covers the full DevOps lifecycle:
 
 ---
 
-## 🧠 System Architecture
-
-```text
-User
- ↓
-GitHub Repository
- ↓
-GitHub Actions (CI/CD)
- ↓
-Docker Image (DockerHub)
- ↓
-Kubernetes Cluster
- ↓
-Application Service
- ↓
-Prometheus & Grafana Monitoring
-```
-
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Programming Language:** Python  
 - **Framework:** Flask  
@@ -49,7 +31,7 @@ Prometheus & Grafana Monitoring
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 ├── app
@@ -66,7 +48,7 @@ Prometheus & Grafana Monitoring
 
 ---
 
-## ⚙️ Application Details
+## Application Details
 
 A simple Flask-based REST API designed for containerized deployment.
 
@@ -79,7 +61,7 @@ A simple Flask-based REST API designed for containerized deployment.
 
 ---
 
-## 🐳 Docker
+## Docker
 
 ### Build Image
 ```bash
@@ -93,7 +75,7 @@ docker run -p 5000:5000 devops-app
 
 ---
 
-## 🔁 CI/CD Pipeline
+## CI/CD Pipeline
 
 The GitHub Actions pipeline:
 
@@ -108,7 +90,7 @@ The GitHub Actions pipeline:
 
 ---
 
-## ☸️ Kubernetes Deployment
+## Kubernetes Deployment
 
 ### Start Cluster
 ```bash
