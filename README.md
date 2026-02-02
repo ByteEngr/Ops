@@ -36,7 +36,7 @@ This project covers the full DevOps lifecycle:
 ```
 ├── app
 │   ├── app.py
-│   ├── Dcokerfile
+│   ├── Dockerfile
 │   └── requirements.txt
 ├── deployment.yaml
 ├── k8s
