@@ -1,6 +1,6 @@
 # Complete DevOps Project – CI/CD, Kubernetes & Monitoring
 
-An end-to-end **production-style DevOps project** demonstrating how to build, containerize, deploy, and monitor a web application using modern DevOps tools and best practices.
+An end-to-end **production-style DevOps project** demonstrating how to build,containerize, deploy and monitor a web application using modern DevOps tools and best practices.
 
 ---
 
