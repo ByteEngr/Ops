@@ -8,12 +8,12 @@ An end-to-end **production-style DevOps project** demonstrating how to build,con
 
 This project covers the full DevOps lifecycle:
 
-- Application development using Python (Flask)
-- Containerization with Docker
-- CI/CD automation using GitHub Actions
-- Deployment to Kubernetes
-- Service exposure via NodePort
-- Monitoring with Prometheus and Grafana
+1. Application development using Python (Flask)
+2. Containerization with Docker
+3. CI/CD automation using GitHub Actions
+4. Deployment to Kubernetes
+5. Service exposure via NodePort
+6. Monitoring with Prometheus and Grafana
 
 ---
 
