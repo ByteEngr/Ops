@@ -1,4 +1,4 @@
-# Complete DevOps Project – CI/CD, Kubernetes & Monitoring
+# A Complete DevOps Project – CI/CD, Kubernetes & Monitoring
 
 An end-to-end **production-style DevOps project** demonstrating how to build,containerize, deploy and monitor a web application using modern DevOps tools and best practices.
 
@@ -79,9 +79,9 @@ docker run -p 5000:5000 devops-app
 
 The GitHub Actions pipeline:
 
-1. Triggers on push to `main`
-2. Builds Docker image
-3. Pushes image to DockerHub
+- Triggers on push to `main`
+- Builds Docker image
+- Pushes image to DockerHub
 
 ### Required Secrets
 
