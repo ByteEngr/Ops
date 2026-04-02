@@ -21,7 +21,7 @@ This project covers the full DevOps lifecycle:
 
 ## Tech Stack
 
-- **Programming Language:** Python  
+1. **Programming Language:** Python  
 - **Framework:** Flask  
 - **Containerization:** Docker  
 - **CI/CD:** GitHub Actions  
